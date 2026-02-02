@@ -1,6 +1,7 @@
 # [KIVOXO] – Game
 [WWW](https://kivoxo.github.io)
 
+![screen](https://github.com/kivoxo/Kivoxo/blob/main/media/first.png)
 
 # [INSTALL] – PC - Windows
 1. download
