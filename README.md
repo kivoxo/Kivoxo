@@ -1,7 +1,4 @@
 # [KIVOXO] – Game
-[WWW](https://kivoxo.github.io)
-
-![screen](https://github.com/kivoxo/Kivoxo/blob/main/media/first.png)
 
 # [INSTALL] – PC - Windows
 1. download
@@ -12,6 +9,11 @@
 start_server.bat
 4. start client
 start_client.bat
+
+[WWW](https://kivoxo.github.io)
+
+![screen](https://github.com/kivoxo/Kivoxo/blob/main/media/first.png)
+
 
 ## 🎥 Video Demo
 
