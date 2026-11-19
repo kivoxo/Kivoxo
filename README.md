@@ -3,11 +3,12 @@
 # [INSTALL] – PC - Windows
 1. download
 [KG Kivoxo Game LATEST](https://github.com/kivoxo/Kivoxo/releases/latest)
+[KG Kivoxo Game 26.11.0](https://github.com/kivoxo/Kivoxo/releases/tag/B26.11.0)
 [KG Kivoxo Game 26.2.0](https://github.com/kivoxo/Kivoxo/releases/tag/B26.2.0)
-2. unzip
-3. start server
+3. unzip
+4. start server
 start_server.bat
-4. start client
+5. start client
 start_client.bat
 
 [WWW](https://kivoxo.github.io)
